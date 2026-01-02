@@ -1,0 +1,9 @@
+[[entries]]
+title = "Posts"
+
+  [entries.post_list]
+  section = "posts"
+  limit = 10
+  show_more = true
+  show_more_text = "Archive"
+  show_more_url = "posts"
