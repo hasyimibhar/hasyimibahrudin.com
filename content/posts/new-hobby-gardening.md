@@ -6,7 +6,7 @@ draft: false
 
 As of 21st December 2025, I have officially quit my job as Staff Engineer at MoneyLion. With 2 weeks to spare until my next job, I accidentally fell in love with gardening after helping my wife to water the plants. We recently moved in to our new house -- a corner lot terrace house with 20x70 plot of land -- so there's plenty of land to plant stuff.
 
-As with my other hobbies, I started going down the rabbit hole of gardening pretty quickly. AI helped a lot here. In the past, I would have spent hours googling stuff and going down wikipedia rabbit hole, hopping from one link to another. But now I can just have a conversation with Gemini and start discovering new things naturally. Below is what I know about gardening so far.
+As with my other hobbies, and thanks to my ADHD and mild-autism (I need to write about this someday), I started going down the rabbit hole of gardening pretty quickly. AI helped a lot here, specifically Gemini 3. In the past, I would have spent hours googling stuff and going down wikipedia rabbit hole, hopping from one link to another. But now I can just have a conversation with Gemini and start discovering new things naturally. Below is what I know about gardening so far.
 
 ## Gardening: an overview
 
