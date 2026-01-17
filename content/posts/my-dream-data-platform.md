@@ -155,3 +155,5 @@ Obviously, if you are a small startup, you don't need all of this. Just start wi
 At some point, your data grows to a point where analytics use cases can no longer work by just querying your source Postgres database directly (especially if you have a bunch of microservices, each with its own database). When this happens, adopt your favourite data warehouse, then setup data replication from postgres to the data warehouse.
 
 At some point, your data grows into hundreds of TBs, at which point the cost of storage alone will make your cry. When this happens, adopt Iceberg, and flip the data ingestion such that it ingests into Iceberg first, and have your data warehouse query Iceberg instead.
+
+Or if you're lazy and just want a managed data platform that provides all of this, just go with Snowflake, Databricks, or Clickhouse, all of which already provides managed Postgres (though [Clickhouse Postgres is still in private preview](https://clickhouse.com/cloud/postgres)). At somepoint I believe one of them will converge closer to my dream data platform.
